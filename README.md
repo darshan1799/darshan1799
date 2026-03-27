@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Darshan
 
-<!--
-**darshan1799/darshan1799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Node.js | MongoDB  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Node.js | Express | MongoDB | React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Google Reviews Automation Tool  
+- Employee Bulk Update API  
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=darshan123&show_icons=true)
