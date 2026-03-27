@@ -60,14 +60,8 @@ An AI-powered system that automates **Google review responses** for businesses. 
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=darshan1799\&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
-📧 [darshan.k.sutariya@gmail.com](mailto:darshan.k.sutariya@gmail.com)
+📧 [darshan.k.sutariya@gmail.com](mailto:darshan.k.sutariya@gmail.com)  
 💼 LinkedIn: https://www.linkedin.com/in/darshan-sutariya-10a9382b6
 
