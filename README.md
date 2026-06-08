@@ -45,6 +45,8 @@ A full-stack farm management platform with modules for **farm tracking, finance,
 
 **Tech Stack:** Node.js, Express.js, React.js, MongoDB
 
+**Demo :** https://github.com/darshan1799/agrierp-demo
+
 ---
 
 ### 🔹 ReviewMate AI
@@ -56,6 +58,8 @@ An AI-powered system that automates **Google review responses** for businesses. 
 * Currently building **cron-based automation** for real-time replies
 
 **Tech Stack:** Next.js, MongoDB, OpenAI API
+
+**Demo :** https://github.com/darshan1799/ReviewMate
 
 
 ---
